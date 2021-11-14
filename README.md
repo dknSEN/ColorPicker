@@ -36,8 +36,5 @@ You can use them to;
 
 <h2>📷Screenshot</h2>
 
-![](https://i.hizliresim.com/mj2aa92.png)
-![](https://i.hizliresim.com/g6dytcc.png)
-![](https://i.hizliresim.com/6p77xmm.png)
-![](https://i.hizliresim.com/jw2j14y.png)
+![](https://i.hizliresim.com/tkptp0p.png)
 
