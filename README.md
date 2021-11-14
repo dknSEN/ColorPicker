@@ -10,8 +10,8 @@
 <div align="center">
   
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/dknSEN/AfterFormat2.0)](https://github.com/dknSEN/AfterFormat2.0/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/dknSEN/AfterFormat2.0)](https://github.com/dknSEN/AfterFormat2.0/pulls)
+  [![GitHub Issues](https://img.shields.io/github/issues/dknSEN/ColorPicker)](https://github.com/dknSEN/ColorPicker/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/dknSEN/ColorPicker)](https://github.com/dknSEN/ColorPicker/pulls)
   
 </div>
   </p>
@@ -21,13 +21,7 @@
 
 You can use them to;
   <ul>
-    <li>Check your system information</li>
-    <li>Improve game performance</li>
-    <li>Improve response time</li>
-    <li>Disable unnecessary services</li>
-    <li>Cleaning cache files</li>
-    <li>Uninstall windows apps</li>
-    <li>Install tweak utilities and programs.</li>
+    <li>CTRL + B</li>
   </ul>
 
 <h2>🔨Build With</h2>
