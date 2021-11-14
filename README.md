@@ -19,7 +19,7 @@
 
 <h2>📜About the Project</h2>
 
-You can use them to;
+You can use it with;
   <ul>
     <li>CTRL + B</li>
   </ul>
